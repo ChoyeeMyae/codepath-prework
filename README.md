@@ -55,7 +55,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 [YOUR ANSWER HERE]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I have time, I would like to create the pattern as randomly selected real songs (like Never Gonna Give You Up by Rick Astley). I also like to add a hint button which user can use maximum of 3 times. The hint button will light up or blink. I also would like to add a function that will display when the user win the game. All the buttons will light up randomly and play a happy song. Similary, when the user lose the game, it will play a sad song. I also would like to add the advanced function when user win all 8 patterns. The advanced feature will add 4 more buttons to the game.
 
 
 
