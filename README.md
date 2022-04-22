@@ -43,20 +43,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-https://pages.mtu.edu/~suits/notefreqs.html
-https://www.w3schools.com/cssref/css_colors.asp
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+* https://pages.mtu.edu/~suits/notefreqs.html
+* https://www.w3schools.com/cssref/css_colors.asp
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+* When I started reading the pre-work, I thought it would be hard to accomplish because I have not yet learned HTML, CSS, and Javascript. But the guide showed how to implement the code step by step which was very straightforward and helpful. The biggest challenge I faced was the game logic because that function is the only thing we needed to do by ourselves without looking the hint provided. First, I looked at the game logic flow chart and simply wrote 3 if statements: if (guess is not correct), if (turn is not over), if (this is not the last turn). Then I thought about how to turn that into code and wrote the code for each of those cases. As I progressed in writing the code, I also checked with console logging to debug my code by printing guessCounter, progress and pattern[guessCounter].  Breaking a large task into smaller steps helped me with overcoming this challenge.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+* I would like to know more about how this project relates to a real-life job. I want to know more about the daily life of a web developer. Even though this is my first time learning HTML, CSS, and Javascript, I had fun and want to learn more about it. This was also my first time using Github, which was interesting to learn about. What other languages and technologies can be used by a web developer? How do front end and back end technologies interact?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-If I have time, I would like to create the pattern as randomly selected real songs (like Never Gonna Give You Up by Rick Astley). I also like to add a hint button which user can use maximum of 3 times. The hint button will light up or blink. I also would like to add a function that will display when the user win the game. All the buttons will light up randomly and play a happy song. Similary, when the user lose the game, it will play a sad song. I also would like to add the advanced function when user win all 8 patterns. The advanced feature will add 4 more buttons to the game.
-
+* If I have time, I would like to create the pattern as randomly selected real songs (like Never Gonna Give You Up by Rick Astley). I like to add a hint button that users can use a maximum of 3 times. The hint button will light up or blink. I also would like to add a function that will display when the user wins the game where all the buttons will light up randomly and play a happy song. Similarly, when the user loses the game, it will play a sad song. I also would like to add the advanced difficulty mode that activates when the user wins. The advanced difficulty feature will add more buttons to the game, and have a turn time limit that speeds up as the user plays.
 
 
 ## Interview Recording URL Link
