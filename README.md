@@ -4,7 +4,7 @@
 
 Submitted by: **Choyee Chan Myae**
 
-Time spent: **7** hours spent in total
+Time spent: **8** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/messy-surf-scorpion?path=script.js%3A15%3A24
 
